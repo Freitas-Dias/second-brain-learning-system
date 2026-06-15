@@ -38,7 +38,6 @@ https://notebooklm.google.com/notebook/82646a56-00f2-40bd-a01e-c4a6ac5b0df8
 * Estrutura para construção de um Segundo Cérebro Digital.
 
 ---
----
 
 # 📊 Resultados Gerados com NotebookLM
 
