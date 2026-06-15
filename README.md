@@ -38,6 +38,49 @@ https://notebooklm.google.com/notebook/82646a56-00f2-40bd-a01e-c4a6ac5b0df8
 * Estrutura para construção de um Segundo Cérebro Digital.
 
 ---
+---
+
+# 📊 Resultados Gerados com NotebookLM
+
+A partir das fontes selecionadas e da utilização do NotebookLM, foram produzidos diferentes artefatos para apoiar a aprendizagem, a revisão dos conteúdos e a organização do conhecimento.
+
+## 🎨 Infográfico
+
+O infográfico resume visualmente os principais conceitos estudados, conectando os princípios de Ultralearning, Atomic Habits e a construção de um Segundo Cérebro Digital.
+
+![Infográfico do Projeto](1.%20Infografico.png)
+
+---
+
+## 📘 Guia de Estudo
+
+O guia de estudo consolida os principais conceitos, estratégias de aprendizagem e aplicações práticas discutidas ao longo deste projeto.
+
+📄 **Acesse o guia completo:**
+
+[📥 Abrir Guia de Estudo](2.%20Guia%20de%20Estudo.pdf)
+
+---
+
+## 🎙️ Podcast
+
+O NotebookLM gerou um podcast com base nas fontes utilizadas neste projeto, permitindo revisar os conteúdos em formato de áudio.
+
+🔗 **Disponível no NotebookLM do projeto:**
+
+https://notebooklm.google.com/notebook/82646a56-00f2-40bd-a01e-c4a6ac5b0df8
+
+---
+
+## 🎥 Vídeo
+
+Também foi gerado um vídeo-resumo a partir dos conteúdos consolidados no NotebookLM, facilitando a revisão dos conceitos estudados.
+
+🔗 **Disponível no NotebookLM do projeto:**
+
+https://notebooklm.google.com/notebook/82646a56-00f2-40bd-a01e-c4a6ac5b0df8
+
+---
 
 # 📚 Curadoria de Fontes
 
