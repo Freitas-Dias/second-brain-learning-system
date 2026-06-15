@@ -300,3 +300,15 @@ O NotebookLM demonstrou ser uma ferramenta poderosa para aprendizagem ativa e or
 A combinação dos ensinamentos de Scott H. Young e James Clear possibilitou a construção de um sistema de aprendizado sustentável, baseado em aquisição de habilidades, revisão contínua e formação de hábitos.
 
 Mais do que reunir informações, este projeto permitiu estruturar um método pessoal para aprender melhor, aprender de forma mais eficiente e transformar conhecimento em ação.
+
+---
+
+<p align="center">
+
+![DIO](https://img.shields.io/badge/DIO-0A3D91?style=for-the-badge)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-0B6E3F?style=for-the-badge)
+![Ultralearning](https://img.shields.io/badge/Ultralearning-5B21B6?style=for-the-badge)
+![Atomic Habits](https://img.shields.io/badge/Atomic%20Habits-B45309?style=for-the-badge)
+![Ciência de Dados](https://img.shields.io/badge/Ciência%20de%20Dados-0A3D91?style=for-the-badge)
+
+</p>
