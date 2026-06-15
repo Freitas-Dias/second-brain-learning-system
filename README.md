@@ -80,7 +80,10 @@ As fontes foram selecionadas com o objetivo de compreender como a aquisição de
 ## 📖 Livros
 
 * **Ultralearning** — Scott H. Young
+https://www.amazon.com.br/dp/B08T3GNZFJ
+
 * **Atomic Habits** — James Clear
+https://www.amazon.com.br/dp/B07V8LHWZ5
 
 ---
 
@@ -300,6 +303,11 @@ O NotebookLM demonstrou ser uma ferramenta poderosa para aprendizagem ativa e or
 A combinação dos ensinamentos de Scott H. Young e James Clear possibilitou a construção de um sistema de aprendizado sustentável, baseado em aquisição de habilidades, revisão contínua e formação de hábitos.
 
 Mais do que reunir informações, este projeto permitiu estruturar um método pessoal para aprender melhor, aprender de forma mais eficiente e transformar conhecimento em ação.
+
+
+
+
+
 
 ---
 
